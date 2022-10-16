@@ -1,4 +1,4 @@
-## Oiii eu sou O Pedro Kuamba, Desenvolvedor de aplicações e Técnico de Redes de Computadores!
+## Oiii eu sou O Pedro Kuamba, Desenvolvedor de aplicações e Técnico de Redes de Computador!!
 <div>
   <a href="https://github.com/KuambaTec">
   <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=KuambaTec&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
