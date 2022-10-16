@@ -24,8 +24,7 @@
    <a href="https://facebook.com/KuambaTec" target="_blank"><img src="https://img.shields.io/badge/-Facebbok-%23E4405F?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>    
   <a href = "mailto:kuamba.tec2022@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/KuambaTec/KuambaTec/blob/output/github-contribution-grid-snake.svg)
- 
+
 </div>
  
 [![readme](https://github-readme-stats.vercel.app/api/pin/?username=KuambaTec&repo=KuambaTec&theme=react)](https://github.com/KuambaTec/KuambaTec)
