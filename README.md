@@ -30,8 +30,3 @@
 
 ## O impossível é uma questão de tempo. "El programador Fraco"
 
-# Actualmente tenho estudado
-  
-  #### Framework Laravel
-  #### React
-  #### Vue
