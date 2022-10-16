@@ -21,9 +21,8 @@
   <br><a href="https://www.youtube.com/channel/UCtOPSKVtebmy0p1Tcwp5jiA" target="_blank"><img src="https://img.shields.io/badge/-Youtube-%23EA4335?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/pedrokuamba/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BHvFYJOfSTKOLnDCFBfFs3Q%3D%3D" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-   <a href="https://facebook.com/KuambaTec" target="_blank"><img src="https://img.shields.io/badge/-Facebbok-%23E4405F?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>    
+     <a href="https://facebook.com/Kuamba.Tec" target="_blank"><img src="https://img.shields.io/badge/-Facebbok-%23E4405F?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>    
   <a href = "mailto:kuamba.tec2022@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
- 
 
 </div>
  
